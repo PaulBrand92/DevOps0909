@@ -23,6 +23,4 @@ try:
 except ValueError as e:
     print(e.args)
 
-age = print("conflict")
-
-b = 8
+c=4
