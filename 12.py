@@ -24,3 +24,5 @@ except ValueError as e:
     print(e.args)
 
 
+a=3
+
