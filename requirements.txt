@@ -1,0 +1,8 @@
+requests
+awscli
+flask
+selenium
+
+
+
+#pip install -r requirements.txt
